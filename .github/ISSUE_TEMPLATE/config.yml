@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 📖 Documentation
+    url: https://github.com/your-repo
+    about: Consultez d'abord notre documentation
+  - name: 💬 Discussions
+    url: https://github.com/your-repo/votre-repo/discussions
+    about: Pour les questions générales et discussions
+  - name: 🔒 Sécurité
+    url: https://github.com/your-repo/votre-repo/security/advisories/new
+    about: Pour signaler des vulnérabilités de sécurité
